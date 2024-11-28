@@ -23,6 +23,6 @@ This project explores London's bike ride data, providing actionable insights thr
 - Built user-friendly dashboards with filters and tooltips for deeper data exploration.
 - Enhanced storytelling with intuitive design and interactivity.
 
-## Overview Dashboard
+## Overview of the Dashboard
 <img src="london_bikes.jpg" alt="Ride Patterns Dashboard" width="600">
 
